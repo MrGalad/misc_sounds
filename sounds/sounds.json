@@ -1,0 +1,58 @@
+{
+    "main.bike_start": {
+        "sounds": [
+            {
+                "name": "bike_start"
+            }
+        ],
+        "category": "player"
+    },
+    "main.frost_breath": {
+        "sounds": [
+            {
+                "name": "frost_breath"
+            }
+        ],
+        "category": "player"
+    },
+    "main.frost_charge": {
+        "sounds": [
+            {
+                "name": "frost_charge"
+            }
+        ],
+        "category": "player"
+    },
+    "main.termy_voice": {
+        "sounds": [
+            {
+                "name": "termy_voice"
+            }
+        ],
+        "category": "player"
+    },
+    "main.robocop_voice": {
+        "sounds": [
+            {
+                "name": "robocop_voice"
+            }
+        ],
+        "category": "player"
+    },
+    "main.robocop_step": {
+        "sounds": [
+            {
+                "name": "robocop_step"
+            }
+        ],
+        "category": "player"
+    },
+    "main.sent_shoot": {
+        "sounds": [
+            {
+                "name": "sent_shoot"
+            }
+        ],
+        "category": "player"
+    }
+}
