@@ -1,0 +1,138 @@
+{
+    "main.bike_start": {
+        "sounds": [
+            {
+                "name": "bike_start"
+            }
+        ],
+        "category": "player"
+    },
+    "main.frost_breath": {
+        "sounds": [
+            {
+                "name": "frost_breath"
+            }
+        ],
+        "category": "player"
+    },
+    "main.frost_charge": {
+        "sounds": [
+            {
+                "name": "frost_charge"
+            }
+        ],
+        "category": "player"
+    },
+    "main.termy_voice": {
+        "sounds": [
+            {
+                "name": "termy_voice"
+            }
+        ],
+        "category": "player"
+    },
+    "main.robocop_voice": {
+        "sounds": [
+            {
+                "name": "robocop_voice"
+            }
+        ],
+        "category": "player"
+    },
+    "main.robocop_step": {
+        "sounds": [
+            {
+                "name": "robocop_step"
+            }
+        ],
+        "category": "player"
+    },
+    "main.sent_shoot": {
+        "sounds": [
+            {
+                "name": "sent_shoot"
+            }
+        ],
+        "category": "player"
+    },
+    "main.shazam": {
+        "sounds": [
+            {
+                "name": "shazam"
+            }
+        ],
+        "category": "player"
+    },
+    "main.wheel": {
+        "sounds": [
+            {
+                "name": "wheel"
+            }
+        ],
+        "category": "player"
+    },
+    "main.grapple": {
+        "sounds": [
+            {
+                "name": "grapple"
+            }
+        ],
+        "category": "player"
+    },
+    "main.ener_on": {
+        "sounds": [
+            {
+                "name": "energy_on"
+            }
+        ],
+        "category": "player"
+    },
+    "main.ener_off": {
+        "sounds": [
+            {
+                "name": "energy_off"
+            }
+        ],
+        "category": "player"
+    },
+    "main.rockets": {
+        "sounds": [
+            {
+                "name": "rockets"
+            }
+        ],
+        "category": "player"
+    },
+    "main.snap": {
+        "sounds": [
+            {
+                "name": "snap"
+            }
+        ],
+        "category": "player"
+    },
+    "main.speed_punches": {
+        "sounds": [
+            {
+                "name": "speed_punches"
+            }
+        ],
+        "category": "player"
+    },
+    "main.titan_transformation": {
+        "sounds": [
+            {
+                "name": "titan_transformation"
+            }
+        ],
+        "category": "player"
+    },
+    "main.eren_spikes_sound": {
+        "sounds": [
+            {
+                "name": "eren_spikes_sound"
+            }
+        ],
+        "category": "player"
+    }
+}
