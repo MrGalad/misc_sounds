@@ -134,5 +134,37 @@
             }
         ],
         "category": "player"
+    },
+    "main.hk_p30l": {
+        "sounds": [
+            {
+                "name": "hk_p30l"
+            }
+        ],
+        "category": "player"
+    },
+    "main.benelli_m4": {
+        "sounds": [
+            {
+                "name": "benelli_m4"
+            }
+        ],
+        "category": "player"
+    },
+    "main.tr1_ar": {
+        "sounds": [
+            {
+                "name": "tr1_ar"
+            }
+        ],
+        "category": "player"
+    },
+    "main.kimber": {
+        "sounds": [
+            {
+                "name": "kimber"
+            }
+        ],
+        "category": "player"
     }
 }
