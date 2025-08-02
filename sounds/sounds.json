@@ -166,5 +166,21 @@
             }
         ],
         "category": "player"
+    },
+    "main.revolver": {
+        "sounds": [
+            {
+                "name": "revolver"
+            }
+        ],
+        "category": "player"
+    },
+    "main.sniper": {
+        "sounds": [
+            {
+                "name": "sniper"
+            }
+        ],
+        "category": "player"
     }
 }
